@@ -1,2 +1,2 @@
-# we-need--freedom
+# WE NEED FREEDOM
 We need freedom!
