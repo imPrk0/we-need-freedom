@@ -10,3 +10,6 @@
 /usr/local/qcloud/stargate/admin/uninstall.sh
 /usr/local/qcloud/YunJing/uninst.sh
 /usr/local/qcloud/monitor/barad/admin/uninstall.sh
+
+# Tips #
+# echo -e "${Green}The uninstall script is executed success!${Font} " #
